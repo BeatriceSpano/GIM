@@ -3,5 +3,8 @@ Corso di grafica in movimento, SUPSI, 2024
 
 
 # Esercizio_3A
-# Orologio digitale
+Orologio digitale
 https://beatricespano.github.io/GIM/Esercizio_3A/orologio_digitale/index.html
+
+Orologio analogico
+https://beatricespano.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
