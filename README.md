@@ -23,7 +23,7 @@ Can
 https://beatricespano.github.io/GIM/Esercizio_1B/Candela/indexD.html
 
 # Esercizio_2
-https://beatricespano.github.io/GIM/Esercizio_2/esercizio_2.html
+https://beatricespano.github.io/GIM/Esercizio_2/Idea.html
 
 # Esercizio_3A
 Orologio digitale
