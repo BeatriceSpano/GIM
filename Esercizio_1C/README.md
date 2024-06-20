@@ -1,0 +1,8 @@
+# Esercizio 1C
+Lettura
+
+Il testo tratta temi come la grazia, la meccanica del movimento e la natura dell'arte. 
+Il narratore incontra un ballerino di successo e inizia una discussione sulla bellezza e la perfezione del movimento, confrontando i ballerini umani con le marionette. Questo introduce il tema principale del confronto tra arte e meccanica.
+Il Signor C... trova divertimento e insegnamento nelle marionette, suggerendo che queste ultime possiedano una grazia innata che può essere studiata dai ballerini.
+La spiegazione del funzionamento delle marionette offre un'analogia con la semplicità e la naturalezza dei movimenti perfetti. La discussione suggerisce che la grazia possa emergere dalla semplicità e dall'efficienza meccanica piuttosto che dalla complessità dell'espressione umana. Le marionette, essendo svincolate dalle limitazioni della gravità e dell'inerzia, possono eseguire movimenti che i corpi umani non possono. Questo enfatizza la libertà e la leggerezza come componenti essenziali della grazia, difficilmente replicabili dagli esseri umani. C... conclude che la grazia perfetta può essere ritrovata solo in esseri senza coscienza o con una coscienza infinita, come le marionette o Dio. Questo paradosso porta alla riflessione finale che la conoscenza e la coscienza, pur essendo una benedizione, possono anche allontanare l'essere umano dalla grazia naturale.
+Il testo, dunque, esplora in profondità il tema della grazia naturale contrapposta alla coscienza e alla meccanica, suggerendo che la bellezza perfetta può emergere solo dall'assenza di riflessione o da una riflessione infinita. È una meditazione sul potere e i limiti della consapevolezza umana, e sull'eterna ricerca dell'arte di emulare la perfezione naturale.
